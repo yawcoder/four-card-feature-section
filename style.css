@@ -55,12 +55,13 @@ body div h2{
     .card-style{
         height: 200px;
     }
-    .card-2{
-        margin: 0px -13px;
+    .card-1{
+        width: 95% !important;
+        margin: auto;
     }
-    .card-3{
-        margin-left: -13px;
-        margin-right: -13px;
+    .card-4{
+        width: 95% !important;
+        margin: auto;
     }
 }
 .card-1{
